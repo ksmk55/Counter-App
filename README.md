@@ -1,1 +1,1 @@
-# Smart-E-Commerce-Recommendation-System
+# Counter-App
